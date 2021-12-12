@@ -27,12 +27,18 @@
 
 #### You can also find me on- 
 
-[<img align="left" alt="c17hawke | LinkedIn" width="30px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
+[<img align="left" alt="samruddhi-prabhulkar | LinkedIn" width="30px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
 
 
 <hr>
 
 [linkedin]: https://www.linkedin.com/in/samruddhi-prabhulkar
+
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=samruddhijp05&label=Profile%20views&color=0e75b6&style=flat" alt="c17hawke" /> </p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samruddhijp05&" alt="samruddhijp05" /></p>
 
 
 
