@@ -2,10 +2,10 @@
 <h1 align="center">I'm Samruddhi</h1>
 
 ### I have technical experience and interest in -
-* Deep Learning
-* Computer vision 
+* Data Analysis
+* Machine Learning 
 * Natural Language Processing 
-* AI Ops
+* Business Intelligence
 
 
 <h3 align="left">Languages and Tools:</h3>
