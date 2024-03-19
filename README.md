@@ -5,7 +5,7 @@
 * Data Scientist
 * Machine Learning 
 * Natural Language Processing 
-* Business Intelligence
+* Large Language Model
 
 
 <h3 align="left">Languages and Tools:</h3>
