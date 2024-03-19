@@ -1,11 +1,9 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
-<h1 align="center">I'm Samruddhi</h1>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! I'm Samruddhi </h1>
+<h1 align="center"> About Me </h1>
 
-### I have technical experience and interest in -
-* Data Scientist
-* Machine Learning 
-* Natural Language Processing 
-* Large Language Model
+### I am a Data Scientist, a seasoned business analyst.
+* I have expertise in the capital markets domain, specializing in supply chain retail, telecom and banking operations.
+* I have a deep passion for continuously exploring and learning about all aspects of "Data," including Data Analysis, Machine Learning,NLP, and Deep Learning.
 
 
 <h3 align="left">Languages and Tools:</h3>
