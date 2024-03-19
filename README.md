@@ -2,7 +2,7 @@
 <h1 align="center"> About Me </h1>
 
 ### I am a Data Scientist, a seasoned business analyst.
-* I have expertise in the capital markets domain, specializing in supply chain retail, telecom and banking operations.
+* I have expertise in the supply chain domain, specializing in forecasting, predictive analytics and optimization.
 * I have a deep passion for continuously exploring and learning about all aspects of "Data," including Data Analysis, Machine Learning,NLP, and Deep Learning.
 
 
